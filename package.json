@@ -1,0 +1,19 @@
+{
+  "name": "book-api",
+  "version": "1.0.0",
+  "description": "Book api backend, Fetch post put and delete functionalities",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Sushant",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
